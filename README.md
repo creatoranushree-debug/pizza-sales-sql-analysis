@@ -329,3 +329,4 @@ WHERE rn <= 3;
 
 ## Files
 - `Pizza_Sales_SQL_Portfolio.pdf`: project presentation
+- `pizza_sales.zip`: raw dataset (4 CSV files: orders, order_details, pizzas, pizza_types)
