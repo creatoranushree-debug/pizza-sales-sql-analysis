@@ -289,6 +289,7 @@ GROUP BY orders.order_date) AS sales;
 **Result**
 
 First row: 2015-01-01 -> 2713.85 
+
 Last row: 2015-12-31 -> **817860.05** (equals total sales from Q2)
 
 #### Q13. Determine the top 3 most ordered pizza types based on revenue for each pizza category.
